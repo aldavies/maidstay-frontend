@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": ".././first_project/first_project/static",
       "assets": [
         "assets",
         "favicon.ico"
